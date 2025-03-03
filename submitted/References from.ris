@@ -1,0 +1,957 @@
+TY  - JOUR
+AU  - Noble, Luke M
+AU  - Chang, Audrey S
+AU  - McNelis, Daniel
+AU  - Kramer, Max
+AU  - Yen, Mimi
+AU  - Nicodemus, Jasmine P
+AU  - Riccardi, David D
+AU  - Ammerman, Patrick
+AU  - Phillips, Matthew
+AU  - Islam, Tangirul
+AU  - Rockman, Matthew V
+AD  - Department of Biology and Center for Genomics & Systems Biology, New York
+      University, 12 Waverly Place, New York, NY 10003, USA. Department of
+      Biology and Center for Genomics & Systems Biology, New York University, 12
+      Waverly Place, New York, NY 10003, USA. Electronic address:
+      mrockman@nyu.edu.
+TI  - Natural Variation in plep-1 Causes Male-Male Copulatory Behavior in C.
+      elegans
+T2  - Curr. Biol.
+JF  - Current biology: CB
+VL  - 25
+IS  - 20
+SP  - 2730-2737
+PY  - 2015
+DA  - 2015/10/19
+AB  - In sexual species, gametes have to find and recognize one another.
+      Signaling is thus central to sexual reproduction and involves a rapidly
+      evolving interplay of shared and divergent interests [1-4]. Among
+      Caenorhabditis nematodes, three species have evolved self-fertilization,
+      changing the balance of intersexual relations [5]. Males in these
+      androdioecious species are rare, and the evolutionary interests of
+      hermaphrodites dominate. Signaling has shifted accordingly, with females
+      losing behavioral responses to males [6, 7] and males losing competitive
+      abilities [8, 9]. Males in these species also show variable same-sex and
+      autocopulatory mating behaviors [6, 10]. These behaviors could have
+      evolved by relaxed selection on male function, accumulation of sexually
+      antagonistic alleles that benefit hermaphrodites and harm males [5, 11],
+      or neither of these, because androdioecy also reduces the ability of
+      populations to respond to selection [12-14]. We have identified the
+      genetic cause of a male-male mating behavior exhibited by geographically
+      dispersed C. elegans isolates, wherein males mate with and deposit
+      copulatory plugs on one another's excretory pores. We find a single locus
+      of major effect that is explained by segregation of a loss-of-function
+      mutation in an uncharacterized gene, plep-1, expressed in the excretory
+      cell in both sexes. Males homozygous for the plep-1 mutation have
+      excretory pores that are attractive or receptive to copulatory behavior of
+      other males. Excretory pore plugs are injurious and hermaphrodite activity
+      is compromised in plep-1 mutants, so the allele might be unconditionally
+      deleterious, persisting in the population because the species'
+      androdioecious mating system limits the reach of selection.
+SN  - 0960-9822
+DO  - 10.1016/j.cub.2015.09.019
+C2  - PMC4618159
+UR  - http://dx.doi.org/10.1016/j.cub.2015.09.019
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26455306
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618159
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0960-9822(15)01098-2
+UR  - https://scholar.google.ca/scholar?cluster=15824936694291608695&hl=en&as_sdt=0,5&sciodt=0,5
+LB  - 2Cca
+ER  - 
+
+TY  - JOUR
+AU  - Timmons, L
+AU  - Fire, A
+TI  - Specific interference by ingested dsRNA
+T2  - Nature
+JF  - Nature
+VL  - 395
+IS  - 6705
+SP  - 854
+PY  - 1998
+DA  - 1998/10/29
+PB  - Springer Science and Business Media LLC
+AB  - A genetic interference phenomenon in the nematode Caenorhabditis elegans
+      has been described in which expression of an individual gene can be
+      specifically reduced by microinjecting a corresponding fragment of
+      double-stranded (ds) RNA1. One striking feature of this process is a
+      spreading effect: interference in a broad region of the animal is observed
+      following the injection of dsRNA into the extracellular body cavity. Here
+      we show that C. elegans can respond in a gene-specific manner to dsRNA
+      encountered in the environment. C. elegans normally feed on bacteria,
+      ingesting and grinding them in the pharynx and subsequently absorbing
+      bacterial contents in the gut. We find that Escherichia coli bacteria
+      expressing dsRNAs can confer specific interference effects on the nematode
+      larvae that feed on them.
+SN  - 0028-0836
+DO  - 10.1038/27579
+UR  - https://www.nature.com/articles/27579
+UR  - https://www.nature.com/articles/27579.pdf
+UR  - http://dx.doi.org/10.1038/27579
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/9804418
+LB  - 3Zrd
+ER  - 
+
+TY  - JOUR
+AU  - Andersen, Erik C
+AU  - Shimko, Tyler C
+AU  - Crissman, Jonathan R
+AU  - Ghosh, Rajarshi
+AU  - Bloom, Joshua S
+AU  - Seidel, Hannah S
+AU  - Gerke, Justin P
+AU  - Kruglyak, Leonid
+AD  - Northwestern University; erik.andersen@northwestern.edu.
+TI  - A Powerful New Quantitative Genetics Platform, Combining Caenorhabditis
+      elegans High-Throughput Fitness Assays with a Large Collection of
+      Recombinant Strains.
+T2  - G3 
+JF  - G3 
+VL  - 5
+IS  - 5
+SP  - g3.115.017178-920
+PY  - 2015
+DA  - 2015/3
+PB  - Genetics Society of America
+AB  - The genetic variants underlying complex traits are often elusive even in
+      powerful model organisms such as Caenorhabditis elegans with controlled
+      genetic backgrounds and environmental conditions. Two major contributing
+      factors are: (1) the lack of statistical power from measuring the
+      phenotypes of small numbers of individuals, and (2) the use of phenotyping
+      platforms that do not scale to hundreds of individuals and are prone to
+      noisy measurements. Here, we generated a new resource of 359 recombinant
+      inbred strains that augments the existing C. elegans N2xCB4856 recombinant
+      inbred advanced intercross line population. This new strain collection
+      removes variation in the neuropeptide receptor gene npr-1, known to have
+      large physiological and behavioral effects on C. elegans and mitigates the
+      hybrid strain incompatibility caused by zeel-1 and peel-1, allowing for
+      identification of quantitative trait loci that otherwise would have been
+      masked by those effects. Additionally, we optimized highly scalable and
+      accurate high-throughput assays of fecundity and body size using the COPAS
+      BIOSORT large particle nematode sorter. Using these assays, we identified
+      quantitative trait loci involved in fecundity and growth under normal
+      growth conditions and after exposure to the herbicide paraquat, including
+      independent genetic loci that regulate different stages of larval growth.
+      Our results offer a powerful platform for the discovery of the genetic
+      variants that control differences in responses to drugs, other aqueous
+      compounds, bacterial foods, and pathogenic stresses.
+DO  - 10.1534/g3.115.017178
+C2  - PMC4426375
+UR  - http://g3journal.org/cgi/doi/10.1534/g3.115.017178
+UR  - http://dx.doi.org/10.1534/g3.115.017178
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/25770127
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4426375
+LB  - C1AM
+ER  - 
+
+TY  - JOUR
+AU  - Burga, Alejandro
+AU  - Ben-David, Eyal
+AU  - Lemus Vergara, Tzitziki
+AU  - Boocock, James
+AU  - Kruglyak, Leonid
+AD  - Department of Human Genetics, Department of Biological Chemistry, and
+      Howard Hughes Medical Institute, University of California, Los Angeles,
+      Los Angeles, CA, 90095, USA. alejandro.burga@imba.oeaw.ac.at. Institute of
+      Molecular Biotechnology of the Austrian Academy of Sciences (IMBA),
+      Vienna, Austria. alejandro.burga@imba.oeaw.ac.at. Department of Human
+      Genetics, Department of Biological Chemistry, and Howard Hughes Medical
+      Institute, University of California, Los Angeles, Los Angeles, CA, 90095,
+      USA. ebd@ucla.edu. Department of Human Genetics, Department of Biological
+      Chemistry, and Howard Hughes Medical Institute, University of California,
+      Los Angeles, Los Angeles, CA, 90095, USA. Department of Human Genetics,
+      Department of Biological Chemistry, and Howard Hughes Medical Institute,
+      University of California, Los Angeles, Los Angeles, CA, 90095, USA.
+      lkruglyak@mednet.ucla.edu.
+TI  - Fast genetic mapping of complex traits in C. elegans using millions of
+      individuals in bulk
+T2  - Nat. Commun.
+JF  - Nature communications
+VL  - 10
+IS  - 1
+SP  - 2680
+PY  - 2019
+DA  - 2019/6/18
+AB  - Genetic studies of complex traits in animals have been hindered by the
+      need to generate, maintain, and phenotype large panels of recombinant
+      lines. We developed a new method, C. elegans eXtreme Quantitative Trait
+      Locus (ceX-QTL) mapping, that overcomes this obstacle via bulk selection
+      on millions of unique recombinant individuals. We use ceX-QTL to map a
+      drug resistance locus with high resolution. We also map differences in
+      gene expression in live worms and discovered that mutations in the
+      co-chaperone sti-1 upregulate the transcription of HSP-90. Lastly, we use
+      ceX-QTL to map loci that influence fitness genome-wide confirming
+      previously reported causal variants and uncovering new fitness loci.
+      ceX-QTL is fast, powerful and cost-effective, and will accelerate the
+      study of complex traits in animals.
+SN  - 2041-1723
+DO  - 10.1038/s41467-019-10636-9
+C2  - PMC6582151
+UR  - http://dx.doi.org/10.1038/s41467-019-10636-9
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31213597
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582151
+LB  - GVVi
+ER  - 
+
+TY  - JOUR
+AU  - Qin, Zhao
+AU  - Hubbard, E Jane Albert
+TI  - Non-autonomous DAF-16/FOXO activity antagonizes age-related loss of C.
+      elegans germline stem/progenitor cells
+T2  - Nat. Commun.
+JF  - Nature communications
+VL  - 6
+IS  - 1
+SP  - 7107
+PY  - 2015
+DA  - 2015/5/11
+Y2  - 2024/11/18
+PB  - Springer Science and Business Media LLC
+AB  - Stem cells maintain tissues and organs over the lifespan of individuals.
+      How aging influences this process is unclear. Here we investigate the
+      effects of aging on C. elegans germline stem/progenitor cells and show
+      that the progenitor pool is depleted over time in a manner dependent on
+      inhibition of DAF-16/FOXO by insulin/IGF-1 signalling (IIS). Our data
+      indicate that DAF-16/FOXO activity in certain somatic gonad cells is
+      required for germline progenitor maintenance, and that this role is
+      separable from the effect of DAF-16/FOXO on organismal aging. In addition,
+      blocking germ cell flux, similar to reducing IIS, maintains germline
+      progenitors. This effect is partially dependent on gonadal DAF-16/FOXO
+      activity. Our results imply that (1) longevity pathways can regulate aging
+      stem cells through anatomically separable mechanisms, (2) stem cell
+      maintenance is not necessarily prioritized and (3) stem cell regulation
+      can occur at the level of an entire organ system such as the reproductive
+      system.
+SN  - 2041-1723
+DO  - 10.1038/ncomms8107
+C2  - PMC4432587
+UR  - https://www.nature.com/articles/ncomms8107
+UR  - https://www.nature.com/articles/ncomms8107.pdf
+UR  - http://dx.doi.org/10.1038/ncomms8107
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/25960195
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432587
+LB  - JBae
+ER  - 
+
+TY  - JOUR
+AU  - Andersen, Erik C
+AU  - Bloom, Joshua S
+AU  - Gerke, Justin P
+AU  - Kruglyak, Leonid
+AD  - Lewis-Sigler Institute for Integrative Genomics, Princeton University,
+      Princeton, New Jersey, United States of America.
+TI  - A variant in the neuropeptide receptor npr-1 is a major determinant of
+      Caenorhabditis elegans growth and physiology.
+VL  - 10
+IS  - 2
+SP  - e1004156
+PY  - 2014
+DA  - 2014/2
+AB  - The mechanistic basis for how genetic variants cause differences in
+      phenotypic traits is often elusive. We identified a quantitative trait
+      locus in Caenorhabditis elegans that affects three seemingly unrelated
+      phenotypic traits: lifetime fecundity, adult body size, and susceptibility
+      to the human pathogen Staphyloccus aureus. We found a QTL for all three
+      traits arises from variation in the neuropeptide receptor gene npr-1.
+      Moreover, we found that variation in npr-1 is also responsible for
+      differences in 247 gene expression traits. Variation in npr-1 is known to
+      determine whether animals disperse throughout a bacterial lawn or
+      aggregate at the edges of the lawn. We found that the allele that leads to
+      aggregation is associated with reduced growth and reproductive output. The
+      altered gene expression pattern caused by this allele suggests that the
+      aggregation behavior might cause a weak starvation state, which is known
+      to reduce growth rate and fecundity. Importantly, we show that variation
+      in npr-1 causes each of these phenotypic differences through behavioral
+      avoidance of ambient oxygen concentrations. These results suggest that
+      variation in npr-1 has broad pleiotropic effects mediated by altered
+      exposure to bacterial food.
+DO  - 10.1371/journal.pgen.1004156
+C2  - PMC3937155
+UR  - http://dx.plos.org/10.1371/journal.pgen.1004156
+UR  - http://dx.doi.org/10.1371/journal.pgen.1004156
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24586193
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3937155
+LB  - PEWXn
+ER  - 
+
+TY  - JOUR
+AU  - Huang, Likun
+AU  - Tang, Weiqi
+AU  - Bu, Suhong
+AU  - Wu, Weiren
+TI  - BRM: a statistical method for QTL mapping based on bulked segregant
+      analysis by deep sequencing
+T2  - Bioinformatics
+JF  - Bioinformatics (Oxford, England)
+VL  - 36
+IS  - 7
+SP  - 2150-2156
+PY  - 2020
+DA  - 2020/4/1
+Y2  - 2024/11/19
+PB  - Oxford University Press (OUP)
+AB  - MOTIVATION: Bulked segregant analysis by deep sequencing (BSA-seq) has
+      been widely used for quantitative trait locus (QTL) mapping in recent
+      years. A number of different statistical methods for BSA-seq have been
+      proposed. However, determination of significance threshold, the key point
+      for QTL identification, remains to be a problem that has not been well
+      solved due to the difficulty of multiple testing correction. In addition,
+      estimation of the confidence interval is also a problem to be solved.
+      RESULTS: In this paper, we propose a new statistical method for BSA-seq,
+      named Block Regression Mapping (BRM). BRM is robust to sequencing noise
+      and is applicable to the case of low sequencing depth. Significance
+      threshold can be reasonably determined by taking multiple testing
+      correction into account. Meanwhile, the confidence interval of QTL
+      position can also be estimated. AVAILABILITY AND IMPLEMENTATION: The R
+      scripts of our method are open source under GPLv3 license at
+      https://github.com/huanglikun/BRM. SUPPLEMENTARY INFORMATION:
+      Supplementary data are available at Bioinformatics online.
+SN  - 1367-4803
+DO  - 10.1093/bioinformatics/btz861
+UR  - https://academic.oup.com/bioinformatics/article-pdf/36/7/2150/50670379/bioinformatics_36_7_2150.pdf
+UR  - https://dx.doi.org/10.1093/bioinformatics/btz861
+UR  - https://academic.oup.com/bioinformatics/article/36/7/2150/5631910
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31742317
+UR  - http://dx.doi.org/10.1093/bioinformatics/btz861
+LB  - R0fl
+ER  - 
+
+TY  - JOUR
+AU  - Brenner, S
+TI  - Caenorhabditis elegans
+SP  - 71-94
+PY  - 1974
+DA  - 1974
+LB  - TA1D
+ER  - 
+
+TY  - JOUR
+AU  - Ben-David, Eyal
+AU  - Burga, Alejandro
+AU  - Kruglyak, Leonid
+AD  - Department of Human Genetics, Department of Biological Chemistry, and
+      Howard Hughes Medical Institute, University of California, Los Angeles, CA
+      90095, USA. ebd@ucla.edu aburga@mednet.ucla.edu lkruglyak@mednet.ucla.edu.
+TI  - A maternal-effect selfish genetic element in Caenorhabditis elegans
+T2  - Science
+JF  - Science
+VL  - 356
+IS  - 6342
+SP  - 1051-1055
+PY  - 2017
+DA  - 2017/6/9
+AB  - Selfish genetic elements spread in natural populations and have an
+      important role in genome evolution. We discovered a selfish element
+      causing embryonic lethality in crosses between wild strains of the
+      nematode Caenorhabditis elegans The element is made up of sup-35, a
+      maternal-effect toxin that kills developing embryos, and pha-1, its
+      zygotically expressed antidote. pha-1 has long been considered essential
+      for pharynx development on the basis of its mutant phenotype, but this
+      phenotype arises from a loss of suppression of sup-35 toxicity. Inactive
+      copies of the sup-35/pha-1 element show high sequence divergence from
+      active copies, and phylogenetic reconstruction suggests that they
+      represent ancestral stages in the evolution of the element. Our results
+      suggest that other essential genes identified by genetic screens may turn
+      out to be components of selfish elements.
+SN  - 0036-8075
+DO  - 10.1126/science.aan0621
+C2  - PMC6251971
+UR  - http://dx.doi.org/10.1126/science.aan0621
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28495877
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251971
+UR  - http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=28495877
+LB  - U8nM
+ER  - 
+
+TY  - JOUR
+AU  - C. elegans Sequencing Consortium
+TI  - Genome sequence of the nematode C. elegans: a platform for investigating
+      biology
+T2  - Science
+JF  - Science
+VL  - 282
+IS  - 5396
+SP  - 2012-2018
+PY  - 1998
+DA  - 1998/12/11
+AB  - The 97-megabase genomic sequence of the nematode Caenorhabditis elegans
+      reveals over 19,000 genes. More than 40 percent of the predicted protein
+      products find significant matches in other organisms. There is a variety
+      of repeated sequences, both local and dispersed. The distinctive
+      distribution of some repeats and highly conserved genes provides evidence
+      for a regional organization of the chromosomes.
+SN  - 0036-8075
+DO  - 10.1126/science.282.5396.2012
+UR  - http://dx.doi.org/10.1126/science.282.5396.2012
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/9851916
+UR  - http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=9851916
+UR  - https://science.sciencemag.org/content/282/5396/2012.full
+LB  - VLS7
+ER  - 
+
+TY  - INPR
+AU  - Zdraljevic, Stefan
+AU  - Walter-McNeill, Laura
+AU  - Bruni, Giancarlo
+AU  - Marquez, Heriberto
+AU  - Leighton, Daniel H W
+AU  - Bloom, Joshua S
+AU  - Kruglyak, Leonid
+TI  - A maternal-effect toxin-antidote element causes larval arrest in C.
+      elegans
+T2  - bioRxiv
+PY  - 2024
+DA  - 2024/4/26
+Y2  - 2024/4/29
+AB  - Toxin-antidote (TA) elements are selfish DNA sequences that bias their
+      transmission to the next generation. TAs typically consist of two linked
+      genes: a toxin and an antidote. The toxin kills progeny that do not
+      inherit the TA, while the antidote counteracts the toxin in progeny that
+      inherit the TA. Many TAs have been found in bacteria and archaea, but only
+      a few in eukaryotes. We previously discovered two TAs in C. elegans:
+      peel-1/zeel-1 and sup-35/pha-1. Here, we report a third TA in C. elegans
+      which has several distinctive features. Unlike the toxins PEEL-1 and
+      SUP-35, the new maternally deposited toxin causes larval arrest rather
+      than embryonic lethality, raising the question of how the toxicity is
+      delayed to this stage. We identified the toxin and antidote genes, which
+      encode proteins of unknown function. We detected toxin mRNA transcripts in
+      Z2/Z3 cells in larvae, which suggests that the transcript is sequestered
+      from translation and degradation in germ cells. At the population level,
+      previously described TAs are characterized by presence or absence of both
+      the toxin and the antidote in a given individual. In contrast, we
+      identified three clades with distinct haplotypes at the new TA locus. In
+      addition to strains with an intact TA and a second set of strains that
+      lost the toxin, many strains, including the standard laboratory strain N2,
+      carry an intact but highly divergent version of the toxin that appears to
+      be active. The antidote is pseudogenized in these strains, presenting the
+      puzzle of how they inactivate the toxin. Current evidence suggests that
+      this is accomplished by MUT-16- and PRG-1-dependent production of small
+      interfering RNAs that target the toxin gene. ### Competing Interest
+      Statement The authors have declared no competing interest.
+DO  - 10.1101/2024.04.26.591160
+UR  - https://www.biorxiv.org/content/10.1101/2024.04.26.591160
+UR  - http://dx.doi.org/10.1101/2024.04.26.591160
+UR  - https://www.biorxiv.org/content/10.1101/2024.04.26.591160.abstract
+UR  - https://www.biorxiv.org/content/10.1101/2024.04.26.591160.full.pdf
+LB  - Wbao
+ER  - 
+
+TY  - JOUR
+AU  - Rockman, Matthew V
+AU  - Kruglyak, Leonid
+AD  - Lewis-Sigler Institute for Integrative Genomics, Princeton University,
+      Princeton, New Jersey, United States of America. mrockman@nyu.edu
+TI  - Recombinational landscape and population genomics of Caenorhabditis
+      elegans.
+T2  - PLoS Genet.
+JF  - PLoS genetics
+VL  - 5
+IS  - 3
+SP  - e1000419
+PY  - 2009
+DA  - 2009/3
+AB  - Recombination rate and linkage disequilibrium, the latter a function of
+      population genomic processes, are the critical parameters for mapping by
+      linkage and association, and their patterns in Caenorhabditis elegans are
+      poorly understood. We performed high-density SNP genotyping on a large
+      panel of recombinant inbred advanced intercross lines (RIAILs) of C.
+      elegans to characterize the landscape of recombination and, on a panel of
+      wild strains, to characterize population genomic patterns. We confirmed
+      that C. elegans autosomes exhibit discrete domains of nearly constant
+      recombination rate, and we show, for the first time, that the pattern
+      holds for the X chromosome as well. The terminal domains of each
+      chromosome, spanning about 7% of the genome, exhibit effectively no
+      recombination. The RIAILs exhibit a 5.3-fold expansion of the genetic map.
+      With median marker spacing of 61 kb, they are a powerful resource for
+      mapping quantitative trait loci in C. elegans. Among 125 wild isolates, we
+      identified only 41 distinct haplotypes. The patterns of genotypic
+      similarity suggest that some presumed wild strains are laboratory
+      contaminants. The Hawaiian strain, CB4856, exhibits genetic isolation from
+      the remainder of the global population, whose members exhibit ample
+      evidence of intercrossing and recombining. The population effective
+      recombination rate, estimated from the pattern of linkage disequilibrium,
+      is correlated with the estimated meiotic recombination rate, but its
+      magnitude implies that the effective rate of outcrossing is extremely low,
+      corroborating reports of selection against recombinant genotypes. Despite
+      the low population, effective recombination rate and extensive linkage
+      disequilibrium among chromosomes, which are techniques that account for
+      background levels of genomic similarity, permit association mapping in
+      wild C. elegans strains.
+SN  - 1553-7390
+DO  - 10.1371/journal.pgen.1000419
+C2  - PMC2652117
+UR  - http://dx.plos.org/10.1371/journal.pgen.1000419
+UR  - http://dx.doi.org/10.1371/journal.pgen.1000419
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19283065
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652117
+LB  - Y7FL
+ER  - 
+
+TY  - JOUR
+AU  - Andersen, Erik C
+AU  - Rockman, Matthew V
+TI  - Natural genetic variation as a tool for discovery in Caenorhabditis
+      nematodes
+T2  - Genetics
+JF  - Genetics
+VL  - 220
+IS  - 1
+SP  - iyab156
+PY  - 2022
+DA  - 2022/1/4
+Y2  - 2024/11/18
+PB  - Oxford University Press (OUP)
+AB  - Over the last 20 years, studies of Caenorhabditis elegans natural
+      diversity have demonstrated the power of quantitative genetic approaches
+      to reveal the evolutionary, ecological, and genetic factors that shape
+      traits. These studies complement the use of the laboratory-adapted strain
+      N2 and enable additional discoveries not possible using only one genetic
+      background. In this chapter, we describe how to perform quantitative
+      genetic studies in Caenorhabditis, with an emphasis on C. elegans. These
+      approaches use correlations between genotype and phenotype across
+      populations of genetically diverse individuals to discover the genetic
+      causes of phenotypic variation. We present methods that use linkage,
+      near-isogenic lines, association, and bulk-segregant mapping, and we
+      describe the advantages and disadvantages of each approach. The power of
+      C. elegans quantitative genetic mapping is best shown in the ability to
+      connect phenotypic differences to specific genes and variants. We will
+      present methods to narrow genomic regions to candidate genes and then
+      tests to identify the gene or variant involved in a quantitative trait.
+      The same features that make C. elegans a preeminent experimental model
+      animal contribute to its exceptional value as a tool to understand natural
+      phenotypic variation.
+SN  - 0016-6731
+DO  - 10.1093/genetics/iyab156
+C2  - PMC8733454
+UR  - https://academic.oup.com/genetics/article-pdf/220/1/iyab156/42368371/iyab156.pdf
+UR  - https://dx.doi.org/10.1093/genetics/iyab156
+UR  - https://academic.oup.com/genetics/article/220/1/iyab156/6497728
+UR  - https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyab156/6497728
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/35134197
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8733454
+UR  - http://dx.doi.org/10.1093/genetics/iyab156
+KW  - Caenorhabditis 
+KW  - QTL mapping
+KW  - WormBook
+KW  - genetic variation
+KW  - quantitative genetics
+KW  - recombinant inbred lines
+LB  - Zb11
+ER  - 
+
+TY  - JOUR
+AU  - Pollard, Daniel A
+AU  - Rockman, Matthew V
+AD  - Department of Biology, New York University, New York, NY 10003, USA.
+TI  - Resistance to germline RNA interference in a Caenorhabditis elegans wild
+      isolate exhibits complexity and nonadditivity
+T2  - G3 
+JF  - G3 
+VL  - 3
+IS  - 6
+SP  - 941-947
+PY  - 2013
+DA  - 2013/6/21
+AB  - Resolving the genetic complexity of heritable phenotypic variation is
+      fundamental to understanding the mechanisms of evolution and the etiology
+      of human disease. Trait variation among isolates from genetically
+      efficient model organisms offers the opportunity to dissect genetic
+      architectures and identify the molecular mechanisms of causation. Here we
+      present a genetic analysis of loss of sensitivity to gene knockdown via
+      exogenous RNA interference in the germline of a wild isolate of the
+      roundworm Caenorhabditis elegans. We find that the loss of RNA
+      interference sensitivity in the wild isolate CB4856 is recessive to the
+      sensitivity of the lab strain N2. A cross of the strains produced F2 with
+      intermediate sensitivities, and the segregation of the trait among F2s
+      strongly deviated from a single locus recessive allele expectation.
+      Linkage analysis in recombinant inbred lines derived from CB4856 and N2
+      identified a single significant locus on chromosome I that includes the
+      argonaute gene ppw-1. The alleles for ppw-1 were unable to explain the
+      sensitivity of 18 (12.1%) of the recombinant inbred lines. Complementation
+      tests and F2 segregation analysis of these recombinant inbred lines
+      revealed cases of complex epistatic suppression and enhancement of the
+      effects of ppw-1. We conclude that the variation in RNA interference
+      sensitivity between CB4856 and N2 likely involves the nonadditive
+      interactions of eight or more genes in addition to ppw-1.
+SN  - 2160-1836
+DO  - 10.1534/g3.113.005785
+C2  - PMC3689805
+UR  - http://dx.doi.org/10.1534/g3.113.005785
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23589516
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689805
+UR  - http://www.g3journal.org/cgi/pmidlookup?view=long&pmid=23589516
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689805/
+KW  - QTL
+KW  - RNAi
+KW  - epistasis
+LB  - dL7J
+ER  - 
+
+TY  - JOUR
+AU  - Kamath, R S
+AU  - Martinez-Campos, M
+AU  - Zipperlen, P
+AU  - Fraser, A G
+AU  - Ahringer, J
+TI  - Effectiveness of specific RNA-mediated interference through ingested
+      double-stranded RNA in Caenorhabditis elegans
+T2  - Genome Biol.
+JF  - Genome biology
+VL  - 2
+IS  - 1
+SP  - RESEARCH0002
+PY  - 2001
+DA  - 2001
+Y2  - 2024/11/18
+PB  - BioMed Central
+AB  - BACKGROUND: In Caenorhabditis elegans, injection of double-stranded RNA
+      (dsRNA) results in the specific inactivation of genes containing
+      homologous sequences, a technique termed RNA-mediated interference (RNAi).
+      It has previously been shown that RNAi can also be achieved by feeding
+      worms Escherichia coli expressing dsRNA corresponding to a specific gene;
+      this mode of dsRNA introduction is conventionally considered to be less
+      efficient than direct injection, however, and has therefore seen limited
+      use, even though it is considerably less labor-intensive. RESULTS: Here we
+      present an optimized feeding method that results in phenotypes at least as
+      strong as those produced by direct injection of dsRNA for embryonic lethal
+      genes, and stronger for genes with post-embryonic phenotypes. In addition,
+      the interference effect generated by feeding can be titrated to uncover a
+      series of hypomorphic phenotypes informative about the functions of a
+      given gene. Using this method, we screened 86 random genes on consecutive
+      cosmids and identified functions for 13 new genes. These included two
+      genes producing an uncoordinated phenotype (a previously uncharacterized
+      POU homeodomain gene, ceh-6, and a gene encoding a MADS-box protein) and
+      one gene encoding a novel protein that results in a
+      high-incidence-of-males phenotype. CONCLUSIONS: RNAi by feeding can
+      provide significant information about the functions of an individual gene
+      beyond that provided by injection. Moreover, it can be used for special
+      applications for which injection or the use of mutants is sometimes
+      impracticable (for example, titration, biochemistry and large-scale
+      screening). Thus, RNAi by feeding should make possible new experimental
+      approaches for the use of genomic sequence information.
+SN  - 1474-7596
+DO  - 10.1186/gb-2000-2-1-research0002
+C2  - PMC17598
+UR  - https://genomebiology.biomedcentral.com/articles/10.1186/gb-2000-2-1-research0002
+UR  - https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2000-2-1-research0002
+UR  - http://dx.doi.org/10.1186/gb-2000-2-1-research0002
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/11178279
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17598
+LB  - drhm
+ER  - 
+
+TY  - JOUR
+AU  - Schedl, T
+AU  - Kimble, J
+AD  - Laboratory of Cell and Molecular Biology, Graduate School, Univesity of
+      Wisconsin, Madison 53706.
+TI  - fog-2, a germ-line-specific sex determination gene required for
+      hermaphrodite spermatogenesis in Caenorhabditis elegans
+T2  - Genetics
+JF  - Genetics
+VL  - 119
+IS  - 1
+SP  - 43-61
+PY  - 1988
+DA  - 1988/5
+AB  - This paper describes the isolation and characterization of 16 mutations in
+      the germ-line sex determination gene fog-2 (fog for feminization of the
+      germ line). In the nematode Caenorhabditis elegans there are normally two
+      sexes, self-fertilizing hermaphrodites (XX) and males (XO). Wild-type XX
+      animals are hermaphrodite in the germ line (spermatogenesis followed by
+      oogenesis), and female in the soma. fog-2 loss-of-function mutations
+      transform XX animals into females while XO animals are unaffected. Thus,
+      wild-type fog-2 is necessary for spermatogenesis in hermaphrodites but not
+      males. The fem genes and fog-1 are each essential for specification of
+      spermatogenesis in both XX and XO animals. fog-2 acts as a positive
+      regulator of the fem genes and fog-1. The tra-2 and tra-3 genes act as
+      negative regulators of the fem genes and fog-1 to allow oogenesis. Two
+      models are discussed for how fog-2 might positively regulate the fem genes
+      and fog-1 to permit spermatogenesis; fog-2 may act as a negative regulator
+      of tra-2 and tra-3, or fog-2 may act positively on the fem genes and fog-1
+      rendering them insensitive to the negative action of tra-2 and tra-3.
+SN  - 0016-6731
+C2  - PMC1203344
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/3396865
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1203344
+UR  - http://www.genetics.org/cgi/pmidlookup?view=long&pmid=3396865
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1203344/
+LB  - j4kV
+ER  - 
+
+TY  - JOUR
+AU  - Li, Heng
+AD  - Medical Population Genetics Program, Broad Institute of Harvard and MIT,
+      Cambridge, MA 02142, USA.
+TI  - Toward better understanding of artifacts in variant calling from
+      high-coverage samples
+T2  - Bioinformatics
+JF  - Bioinformatics 
+VL  - 30
+IS  - 20
+SP  - 2843-2851
+PY  - 2014
+DA  - 2014/10/15
+AB  - MOTIVATION: Whole-genome high-coverage sequencing has been widely used for
+      personal and cancer genomics as well as in various research areas.
+      However, in the lack of an unbiased whole-genome truth set, the global
+      error rate of variant calls and the leading causal artifacts still remain
+      unclear even given the great efforts in the evaluation of variant calling
+      methods. RESULTS: We made 10 single nucleotide polymorphism and INDEL call
+      sets with two read mappers and five variant callers, both on a haploid
+      human genome and a diploid genome at a similar coverage. By investigating
+      false heterozygous calls in the haploid genome, we identified the
+      erroneous realignment in low-complexity regions and the incomplete
+      reference genome with respect to the sample as the two major sources of
+      errors, which press for continued improvements in these two areas. We
+      estimated that the error rate of raw genotype calls is as high as 1 in
+      10-15 kb, but the error rate of post-filtered calls is reduced to 1 in
+      100-200 kb without significant compromise on the sensitivity. AVAILABILITY
+      AND IMPLEMENTATION: BWA-MEM alignment and raw variant calls are available
+      at http://bit.ly/1g8XqRt scripts and miscellaneous data at
+      https://github.com/lh3/varcmp. CONTACT: hengli@broadinstitute.org
+      SUPPLEMENTARY INFORMATION: Supplementary data are available at
+      Bioinformatics online.
+SN  - 1367-4803
+DO  - 10.1093/bioinformatics/btu356
+C2  - PMC4271055
+UR  - http://dx.doi.org/10.1093/bioinformatics/btu356
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24974202
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4271055
+UR  - https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu356
+UR  - https://academic.oup.com/bioinformatics/article-abstract/30/20/2843/2422145
+UR  - https://academic.oup.com/bioinformatics/article/30/20/2843/2422145
+LB  - lRTx
+ER  - 
+
+TY  - JOUR
+AU  - Cook, Daniel E
+AU  - Zdraljevic, Stefan
+AU  - Roberts, Joshua P
+AU  - Andersen, Erik C
+AD  - Interdisciplinary Biological Sciences Program, Northwestern University,
+      Evanston, IL 60208, USA. Department of Molecular Biosciences, Northwestern
+      University, Evanston, IL 60208, USA. Department of Molecular Biosciences,
+      Northwestern University, Evanston, IL 60208, USA
+      Erik.Andersen@Northwestern.edu.
+TI  - CeNDR, the Caenorhabditis elegans natural diversity resource
+T2  - Nucleic Acids Res.
+JF  - Nucleic acids research
+VL  - 45
+IS  - D1
+SP  - D650-D657
+PY  - 2017
+DA  - 2017/1/4
+AB  - Studies in model organisms have yielded considerable insights into the
+      etiology of disease and our understanding of evolutionary processes.
+      Caenorhabditis elegans is among the most powerful model organisms used to
+      understand biology. However, C. elegans is not used as extensively as
+      other model organisms to investigate how natural variation shapes traits,
+      especially through the use of genome-wide association (GWA) analyses.
+      Here, we introduce a new platform, the C. elegans Natural Diversity
+      Resource (CeNDR) to enable statistical genetics and genomics studies of C.
+      elegans and to connect the results to human disease. CeNDR provides the
+      research community with wild strains, genome-wide sequence and variant
+      data for every strain, and a GWA mapping portal for studying natural
+      variation in C. elegans Additionally, researchers outside of the C.
+      elegans community can benefit from public mappings and integrated tools
+      for comparative analyses. CeNDR uses several databases that are
+      continually updated through the addition of new strains, sequencing data,
+      and association mapping results. The CeNDR data are accessible through a
+      freely available web portal located at http://www.elegansvariation.org or
+      through an application programming interface.
+SN  - 0305-1048
+DO  - 10.1093/nar/gkw893
+C2  - PMC5210618
+UR  - http://dx.doi.org/10.1093/nar/gkw893
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27701074
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210618
+UR  - https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw893
+UR  - https://scholar.google.ca/scholar?cluster=1657437906201195610&hl=en&as_sdt=0,5&sciodt=0,5
+LB  - m78D
+ER  - 
+
+TY  - INPR
+AU  - Chou, Han Ting
+AU  - Valencia, Francisco
+AU  - Alexander, Jacqueline C
+AU  - Bell, Avery Davis
+AU  - Deb, Diptodip
+AU  - Pollard, Daniel A
+AU  - Paaby, Annalise B
+TI  - Diversification of small RNA pathways underlies germline RNAi incompetence
+      in wild C. elegans strains
+T2  - bioRxiv
+PY  - 2022
+DA  - 2022/2/22
+Y2  - 2023/9/7
+AB  - The discovery that experimental delivery of dsRNA can induce gene
+      silencing at target genes revolutionized genetics research, by both
+      uncovering essential biological processes and creating new tools for
+      developmental geneticists. However, the efficacy of exogenous RNAi varies
+      dramatically within the C. elegans population, raising questions about our
+      understanding of RNAi in the lab relative to its activity and significance
+      in nature. Here, we investigate why some wild-type strains fail to mount a
+      robust RNAi response to germline targets. We observe diversity in
+      mechanism: in some strains, the response is stochastic, either on or off
+      among individuals, while in others the response is consistent but delayed.
+      Increased activity of the Argonaute PPW-1, which is required for germline
+      RNAi in the laboratory strain N2, rescues the response in some strains,
+      but dampens it further in others. Among wild-type strains, genes known to
+      mediate RNAi exhibited very high expression variation relative to other
+      genes in the genome as well as allelic divergence and strain-specific
+      instances of pseudogenization at the sequence level. Our results
+      demonstrate functional diversification in the small RNA pathways in C.
+      elegans , and suggest that RNAi processes are evolving rapidly and
+      dynamically in nature. ### Competing Interest Statement The authors have
+      declared no competing interest.
+DO  - 10.1101/2021.08.21.457212
+UR  - https://www.biorxiv.org/content/10.1101/2021.08.21.457212v2
+UR  - http://dx.doi.org/10.1101/2021.08.21.457212
+LB  - nHfF
+ER  - 
+
+TY  - JOUR
+AU  - Rual, Jean-François
+AU  - Ceron, Julian
+AU  - Koreth, John
+AU  - Hao, Tong
+AU  - Nicot, Anne-Sophie
+AU  - Hirozane-Kishikawa, Tomoko
+AU  - Vandenhaute, Jean
+AU  - Orkin, Stuart H
+AU  - Hill, David E
+AU  - van den Heuvel, Sander
+AU  - Vidal, Marc
+TI  - Toward improving Caenorhabditis elegans phenome mapping with an
+      ORFeome-based RNAi library
+T2  - Genome Res.
+JF  - Genome research
+VL  - 14
+IS  - 10B
+SP  - 2162-2168
+PY  - 2004
+DA  - 2004/10
+Y2  - 2024/11/18
+PB  - Cold Spring Harbor Laboratory
+AB  - The recently completed Caenorhabditis elegans genome sequence allows
+      application of high-throughput (HT) approaches for phenotypic analyses
+      using RNA interference (RNAi). As large phenotypic data sets become
+      available, "phenoclustering" strategies can be used to begin understanding
+      the complex molecular networks involved in development and other
+      biological processes. The current HT-RNAi resources represent a great
+      asset for phenotypic profiling but are limited by lack of flexibility. For
+      instance, existing resources do not take advantage of the latest
+      improvements in RNAi technology, such as inducible hairpin RNAi. Here we
+      show that a C. elegans ORFeome resource, generated with the Gateway
+      cloning system, can be used as a starting point to generate alternative
+      HT-RNAi resources with enhanced flexibility. The versatility inherent to
+      the Gateway system suggests that additional HT-RNAi libraries can now be
+      readily generated to perform gene knockdowns under various conditions,
+      increasing the possibilities for phenome mapping in C. elegans.
+SN  - 1088-9051
+DO  - 10.1101/gr.2505604
+C2  - PMC528933
+UR  - https://pubmed.ncbi.nlm.nih.gov/15489339/
+UR  - http://dx.doi.org/10.1101/gr.2505604
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/15489339
+UR  - http://genome.cshlp.org/lookup/doi/10.1101/gr.2505604
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528933
+LB  - uWju
+ER  - 
+
+TY  - JOUR
+AU  - Paaby, Annalise B
+AU  - White, Amelia G
+AU  - Riccardi, David D
+AU  - Gunsalus, Kristin C
+AU  - Piano, Fabio
+AU  - Rockman, Matthew V
+AD  - Department of Biology and Center for Genomics and Systems Biology, New
+      York University, New York, United States.
+TI  - Wild worm embryogenesis harbors ubiquitous polygenic modifier variation
+T2  - Elife
+JF  - eLife
+VL  - 4
+PY  - 2015
+DA  - 2015/8/22
+AB  - Embryogenesis is an essential and stereotypic process that nevertheless
+      evolves among species. Its essentiality may favor the accumulation of
+      cryptic genetic variation (CGV) that has no effect in the wild-type but
+      that enhances or suppresses the effects of rare disruptions to gene
+      function. Here, we adapted a classical modifier screen to interrogate the
+      alleles segregating in natural populations of Caenorhabditis elegans: we
+      induced gene knockdowns and used quantitative genetic methodology to
+      examine how segregating variants modify the penetrance of embryonic
+      lethality. Each perturbation revealed CGV, indicating that wild-type
+      genomes harbor myriad genetic modifiers that may have little effect
+      individually but which in aggregate can dramatically influence penetrance.
+      Phenotypes were mediated by many modifiers, indicating high polygenicity,
+      but the alleles tend to act very specifically, indicating low pleiotropy.
+      Our findings demonstrate the extent of conditional functionality in
+      complex trait architecture.
+SN  - 2050-084X
+DO  - 10.7554/eLife.09178
+C2  - PMC4569889
+UR  - http://dx.doi.org/10.7554/eLife.09178
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26297805
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569889
+UR  - https://doi.org/10.7554/eLife.09178
+UR  - https://elifesciences.org/articles/09178
+KW  - C. elegans
+KW  - cryptic genetic variation
+KW  - evolutionary biology
+KW  - genetic background
+KW  - genomics
+KW  - modifier variation
+LB  - vgAd
+ER  - 
+
+TY  - JOUR
+AU  - Elvin, Mark
+AU  - Snoek, Laurens B
+AU  - Frejno, Martin
+AU  - Klemstein, Ulrike
+AU  - Kammenga, Jan E
+AU  - Poulin, Gino B
+AD  - Laboratory of Nematology, Wageningen Universiteit, Droevendaalsesteeg 1,
+      6708 PB, Wageningen, The Netherlands.
+TI  - A fitness assay for comparing RNAi effects across multiple C. elegans
+      genotypes
+T2  - BMC Genomics
+JF  - BMC genomics
+VL  - 12
+SP  - 510
+PY  - 2011
+DA  - 2011/10/17
+AB  - BACKGROUND: RNAi technology by feeding of E. coli containing dsRNA in C.
+      elegans has significantly contributed to further our understanding of many
+      different fields, including genetics, molecular biology, developmental
+      biology and functional genomics. Most of this research has been carried
+      out in a single genotype or genetic background. However, RNAi effects in
+      one genotype do not reveal the allelic effects that segregate in natural
+      populations and contribute to phenotypic variation. RESULTS: Here we
+      present a method that allows for rapidly comparing RNAi effects among
+      diverse genotypes at an improved high throughput rate. It is based on
+      assessing the fitness of a population of worms by measuring the rate at
+      which E. coli is consumed. Critically, we demonstrate the analytical power
+      of this method by QTL mapping the loss of RNAi sensitivity (in the
+      germline) in a recombinant inbred population derived from a cross between
+      Bristol and a natural isolate from Hawaii. Hawaii has lost RNAi
+      sensitivity in the germline. We found that polymorphisms in ppw-1
+      contribute to this loss of RNAi sensitivity, but that other loci are also
+      likely to be important. CONCLUSIONS: In summary, we have established a
+      fast method that improves the throughput of RNAi in liquid, that generates
+      quantitative data, that is easy to implement in most laboratories, and
+      importantly that enables QTL mapping using RNAi.
+SN  - 1471-2164
+DO  - 10.1186/1471-2164-12-510
+C2  - PMC3206879
+UR  - http://dx.doi.org/10.1186/1471-2164-12-510
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22004469
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206879
+UR  - https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-12-510
+UR  - https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-12-510
+LB  - wiw6
+ER  - 
